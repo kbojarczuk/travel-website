@@ -1,0 +1,76 @@
+.navbar-brand {
+	background-color: #000;
+}
+
+.about {
+  background-color: #000;
+  color: #fff;
+}
+
+.post-title2 {
+  background-color: #000;
+  font-family: 'Abril Fatface', cursive; 
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.hover{
+    width: 170px;
+    height: 180px;
+    padding-top: 100px
+    margin: 100px 200px 100px 50px;
+    border-radius: 50%;
+        
+}
+
+
+
+.about {
+
+    width: 100%;
+     display: inline-block;
+    vertical-align: middle;
+}
+}
+.lala{
+
+    margin: 10px 20px 10px 50px;
+
+ 
+ }
+
+.lala3{
+  margin: 10px 20px 10px 5px;
+  padding-left: 300px;
+}
+#about .textt{
+position:relative;
+bottom:30px;
+left:0px;
+color: #000;
+}
+
+#lala:img-circle .textt {
+visibility:visible;
+}
+ .lala img:hover{
+   box-shadow: 0px 0px 15px 10px #fff;
+ }
+ .lala img:{
+   box-shadow: 0px 0px 15px 10px #fff;
+ }
+
+.lala2{
+    float: left;
+    width: 100%;
+}
+
+#wrapper .text {
+position:relative;
+bottom:30px;
+left:0px;
+visibility:hidden;
+}
+
+#wrapper:hover .text {
+visibility:visible;
+}
